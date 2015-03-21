@@ -8,3 +8,5 @@ You are allowed to compile using:
 ```
 gcc -O3 challenge.c -o challenge
 ```
+
+The list should contain *unique* strings, and the final count should be 109582.
